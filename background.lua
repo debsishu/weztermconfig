@@ -33,11 +33,12 @@ function module.apply_to_config(config)
     -- This is the catppuccin color overlay, change it's opacity
 		{
 			source = {
-				Color = "#1e1e2e",
+				Color = "#1a1a28",
+        -- #1e1e2e
 			},
 			width = "100%",
 			height = "100%",
-			opacity = 0.93,
+			opacity = 0.96,
 		},
 	}
 	config.color_schemes = {
